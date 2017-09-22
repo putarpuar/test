@@ -1,2 +1,4 @@
 ---
 # tasks file for test
+- name: Das ist ein Test 
+  command: echo "test"
